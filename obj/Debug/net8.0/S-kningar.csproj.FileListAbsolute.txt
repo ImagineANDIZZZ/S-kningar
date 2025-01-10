@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\GitHub\S-kningar\obj\Debug\net8.0\S-kningar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\S-kningar\obj\Debug\net8.0\S-kningar.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\S-kningar\obj\Debug\net8.0\S-kningar.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\S-kningar\obj\Debug\net8.0\S-kningar.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\S-kningar\obj\Debug\net8.0\S-kningar.sourcelink.json
+C:\Users\Admin\Documents\GitHub\S-kningar\bin\Debug\net8.0\S-kningar.exe
+C:\Users\Admin\Documents\GitHub\S-kningar\bin\Debug\net8.0\S-kningar.deps.json
+C:\Users\Admin\Documents\GitHub\S-kningar\bin\Debug\net8.0\S-kningar.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\S-kningar\bin\Debug\net8.0\S-kningar.dll
+C:\Users\Admin\Documents\GitHub\S-kningar\bin\Debug\net8.0\S-kningar.pdb
+C:\Users\Admin\Documents\GitHub\S-kningar\obj\Debug\net8.0\S-kningar.dll
+C:\Users\Admin\Documents\GitHub\S-kningar\obj\Debug\net8.0\refint\S-kningar.dll
+C:\Users\Admin\Documents\GitHub\S-kningar\obj\Debug\net8.0\S-kningar.pdb
+C:\Users\Admin\Documents\GitHub\S-kningar\obj\Debug\net8.0\S-kningar.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\S-kningar\obj\Debug\net8.0\ref\S-kningar.dll
